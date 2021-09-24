@@ -1,6 +1,12 @@
 h1 {
-    color: gray;
+    color: red;
     text-align: center;
+}
+#foo {
+    color: blue;
+}
+.baz {
+    color: green;
 }
 body {
     color: aqua;
