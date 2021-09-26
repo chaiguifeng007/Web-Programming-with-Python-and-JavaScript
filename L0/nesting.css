@@ -3,6 +3,14 @@ div {
   div p {
     color: blue; }
   div ul {
-    color: pink; }
+    color: green; }
+
+ul {
+  font-size: 24px;
+  color: red; }
+
+p {
+  font-size: 24px;
+  color: red; }
 
 /*# sourceMappingURL=nesting.css.map */
