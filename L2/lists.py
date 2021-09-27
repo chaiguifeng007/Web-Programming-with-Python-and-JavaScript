@@ -8,3 +8,8 @@ print(names)
 
 print(names.pop())
 print(names)
+
+print(names.pop())
+print(names)
+names.sort()
+print(names)
