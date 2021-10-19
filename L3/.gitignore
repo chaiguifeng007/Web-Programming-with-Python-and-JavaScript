@@ -85,7 +85,8 @@ env.bak/
 venv.bak/ 
 *.exe
 pyvenv.cfg
-*ctivate*
+*ctivate* 
+
 
 # mkdocs documentation 
 /site 
